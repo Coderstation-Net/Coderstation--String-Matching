@@ -4,6 +4,8 @@ A high-accuracy composite string similarity engine and interactive benchmarking 
 
 This project combines multiple classic and modern string similarity metrics into an optimized weighted composite score. It is tailored for entity resolution, catalog search queries, typo-tolerant search, and fuzzy matching.
 
+<img width="1915" height="973" alt="image" src="https://github.com/user-attachments/assets/9c30b731-ee85-4871-a869-b40564a48d5e" />
+
 ---
 
 ## Features
@@ -121,7 +123,4 @@ $weights = [
 Ensure the sum of all weights equals `1.0`.
 
 ---
-
-## License & Copyright
-
-&copy; Copyright 2025 **CODERSTATION**. All Rights Reserved.
+ 
